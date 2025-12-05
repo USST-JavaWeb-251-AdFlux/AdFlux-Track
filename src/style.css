@@ -1,3 +1,10 @@
+/* src/style.css */
+/* Styles injected to content page by main.ts */
+
+iframe#adflux-tracker {
+    display: none;
+}
+
 adflux-slot {
     opacity: 0;
     transform: translateY(4px);

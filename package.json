@@ -13,12 +13,14 @@
         "prepare": "husky"
     },
     "dependencies": {
+        "hyperscript": "^2.0.2",
         "universal-cookie": "^8.0.1"
     },
     "devDependencies": {
         "@commitlint/cli": "^20.1.0",
         "@commitlint/config-conventional": "^20.0.0",
         "@eslint/js": "^9.39.1",
+        "@types/hyperscript": "^0.0.7",
         "@types/node": "^24.10.1",
         "eslint": "^9.39.1",
         "eslint-config-prettier": "^10.1.8",
